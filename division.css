@@ -1,0 +1,47 @@
+#first{
+    background-color: aquamarine;
+    margin: 50px;
+    padding: 50px;
+}
+.mydiv{
+background-color: chocolate;
+    margin-top: 70px;
+}
+#Main {
+    text-align: center;
+}
+.mymain{
+    display: flex;
+}
+#course1{
+    background-color: crimson;
+    padding: 20px;
+
+}
+#course2{
+    background-color: blue;
+    padding: 20px;
+
+}
+#course3{
+    background-color: blueviolet;
+    padding: 20px;
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.course {
+    text-align: center;
+}}
+#course1:hover{
+    background-color: blueviolet;
+
+}
+#course2:hover{
+    background-color: brown;
+}
+#course3:hover{
+    background-color: darkslateblue;
+}

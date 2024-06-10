@@ -1,0 +1,26 @@
+.main{
+    display: flex;
+}
+#div2{
+    background-image: url("images/index.jpeg");
+    width:60% ;
+}
+body{
+    background-color: purple;
+    margin: 160px;
+}
+form{
+    background-color: white;
+    padding: 30px;
+
+}
+#div1{
+    width: 60%;
+    background-color: white;
+
+}
+button{
+    background-color: blue;
+    color: white;
+    width: 100%;
+}
