@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88d6b801-3eae-45e1-ad39-87eaa551851b" name="Changes" comment="" />
+    <list default="true" id="88d6b801-3eae-45e1-ad39-87eaa551851b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -30,6 +35,7 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/emobilis/PycharmProjects/Teckla/Table.html&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -71,6 +77,14 @@
       <workItem from="1716972034280" duration="45000" />
       <workItem from="1716972105392" duration="82000" />
       <workItem from="1717047841727" duration="2373000" />
+      <workItem from="1717999969234" duration="2424000" />
+      <workItem from="1718006747555" duration="372000" />
+      <workItem from="1718007280516" duration="29000" />
+      <workItem from="1718007376186" duration="33000" />
+      <workItem from="1718013326791" duration="116000" />
+      <workItem from="1718013474032" duration="12000" />
+      <workItem from="1718084774462" duration="422000" />
+      <workItem from="1718093323354" duration="408000" />
     </task>
     <servers />
   </component>
